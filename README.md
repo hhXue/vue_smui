@@ -32,7 +32,10 @@ npm test
 ```
 ### 项目访问说明
 login?type=1  H5充值
+
 login?type=2  H5提现
+
 about_us 关于我们
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 add a line

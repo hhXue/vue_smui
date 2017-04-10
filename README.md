@@ -33,10 +33,10 @@ npm test
 ### 目录结构
 |——README.md
 |——build
-|——config
+|——config        //环境变量和出口、入口配置
 |——server
-|——src
-|——static
+|——src           //生产目录
+|——static        //静态资源目录
 |——utils
 |——package.json   //项目配置文件
 |——index.html   //项目入口文件

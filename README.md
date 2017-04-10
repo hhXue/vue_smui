@@ -1,5 +1,4 @@
 # h5_1.3
-Node.js API 中文文档 v6.10.1
 基于vue+smui核心框架的项目 webpack做模块管理 ES6为语言核心
 
 > A Vue.js project

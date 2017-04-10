@@ -1,7 +1,7 @@
 # h5_1.3
 
 > A Vue.js project
-> 基于移动端登录、提现、充值、直播及一些静态页的展示，这是学习VUE半个月的成果，分享给大家
+> >基于移动端登录、提现、充值、直播及一些静态页的展示，这是学习VUE半个月的成果，分享给大家
 ##### 环境
  1. node v4.4.7
  2. npm 3.0.0
@@ -31,6 +31,7 @@ npm run e2e
 npm test
 ```
 ### 目录结构
+<pre>
 |——README.md
 |——build
 |——config        //环境变量和出口、入口配置
@@ -40,6 +41,7 @@ npm test
 |——utils
 |——package.json   //项目配置文件
 |——index.html   //项目入口文件
+</pre>
 ### 项目访问说明
 login?type=1  H5充值
 

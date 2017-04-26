@@ -1,7 +1,7 @@
 <template>
   <div class="sharecontent" v-title="title">
     <div class="playcontent" style="height:663px">
-      <video src="movie.ogg" width="100%" height="100%" poster="../../assets/images/test2.jpg" controls="controls"></video>
+      <video src="movie.ogg" width="100%" height="100%" poster="" controls="controls"></video>
       <div class="giftcontent">
         <div class="row sendgift">
           <div class="bggift"></div>

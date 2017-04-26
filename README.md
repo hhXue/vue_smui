@@ -30,13 +30,16 @@ npm run e2e
 
 # run all tests
 npm test
+
+# node server/www
+run node server
 ```
 ### 目录结构
 <pre>
 ├──README.md
 ├──build
 ├──config        //环境变量和出口、入口配置
-├──server
+├──server        //node服务端启动入口
 ├──src           //生产目录
 ├──static        //静态资源目录
 ├──utils
